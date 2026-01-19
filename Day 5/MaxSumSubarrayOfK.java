@@ -1,4 +1,4 @@
-public class WindowSlide {
+public class MaxSumSubarrayOfK {
     public static void main(String[] args) {
         int[] arr  = {2,1,5,1,3} ; 
         int CurrSum = 0 ; 
